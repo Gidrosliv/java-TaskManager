@@ -5,12 +5,12 @@
 
 Бэкенд для трекера задач, отвечающий за формирование и работоспособность следующей модели:
     
-![Alt text](https://github.com/Gidrosliv/java-taskTracker/blob/main/schema.png)
+![Alt text](https://github.com/Gidrosliv/java-TaskManager/blob/main/schema.png?raw=true)
     
         
 Схема работы API:
     
-![Alt text](https://github.com/Gidrosliv/java-taskTracker/blob/main/schema%20API.png)
+![Alt text](https://github.com/Gidrosliv/java-TaskManager/blob/main/schema%20API.png?raw=true)
 
 #### Реализовано:
 *  хранение данных в памяти;
