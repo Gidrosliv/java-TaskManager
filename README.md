@@ -1,5 +1,4 @@
 # Task Manager. Трекер задач.
-# Explore With Me. Cервис поиска интересных событий.
 ###### Пэт проект в рамках прохождения учебного курса Яндекс.
 
 ## Описание:
@@ -30,6 +29,6 @@ REST приложение на основе Java Core для организац�
 *  доступ к методам менеджера через HTTP-запросы.
 
 ##  Технологический стек:
-![Java 11](https://img.shields.io/badge/-Java-green) ![11](https://img.shields.io/badge/-11-orange) ![Spring Boot 2.7.2 ](https://img.shields.io/badge/-Spring%20Boot-blue) ![2.7.2 ](https://img.shields.io/badge/-2.7.2-orange) ![Postgres SQL](https://img.shields.io/badge/-Postgres%20SQL-brightgreen) ![Postgres SQL](https://img.shields.io/badge/-11--alpine%20-orange) ![Lombock](https://img.shields.io/badge/-Lombok%201.18.24-lightgrey) ![hib](https://img.shields.io/badge/-Hibernate%205.6.10%20-green) ![Apache](https://img.shields.io/badge/-Apache%20Maven%204.0.0-blue) ![Docker](https://badgen.net/badge/icon/docker?icon=docker&label) ![Git](https://badgen.net/badge/icon/github?icon=github&label)  
+![Java 11](https://img.shields.io/badge/-Java-green) ![11](https://img.shields.io/badge/-11-orange) ![Spring Boot 2.7.2 ](https://img.shields.io/badge/-Spring%20Boot-blue) ![2.7.2 ](https://img.shields.io/badge/-2.7.2-orange) ![Gson]([https://img.shields.io/badge/-Lombok%201.18.24-lightgrey](https://img.shields.io/badge/-Gson%202.9.0-yellowgreen)) ![Apache](https://img.shields.io/badge/-Apache%20Maven%204.0.0-blue) ![Junit]([https://badgen.net/badge/icon/docker?icon=docker&label](https://img.shields.io/badge/-JUnit%205.4.2-green)) ![Git](https://badgen.net/badge/icon/github?icon=github&label)     
 
 ![Java](https://img.shields.io/badge/-Java-green) ![Spring](https://img.shields.io/badge/-Spring-blue)![Postgres SQL](https://img.shields.io/badge/-Postgres%20SQL-brightgreen) ![H2](https://img.shields.io/badge/-H2-green) ![Maven](https://img.shields.io/badge/-Maven-yellowgreen) ![Lombok](https://img.shields.io/badge/-Lombok-lightgrey) ![JDBC](https://img.shields.io/badge/-JDBC-green) ![Git](https://badgen.net/badge/icon/github?icon=github&label)
